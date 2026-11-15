@@ -1,0 +1,21 @@
+# Build artifacts
+compiler/build/
+compiler/phoenixc
+compiler/minic
+*.o
+
+# Generated outputs
+output/
+healed_output/
+demo_output/
+test_results/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
